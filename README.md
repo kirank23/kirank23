@@ -1,6 +1,6 @@
 <h3>Hi 👋, I'm Kiran.</h3>
 <h3>Passionate about learning new things and building great products that make people’s lives easier.</h3>
-<h3>🌱 I’m currently learning Data Science.<h3>
+<h3>🌱 I’m currently learning Software Development.<h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
